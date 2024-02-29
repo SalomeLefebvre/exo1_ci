@@ -2,7 +2,7 @@
 def add(x, y):
   return x + y
 # test_sum.py
-from sum import add
+#from sum import add
 
 def test_add():
     assert add(2, 3) == 5
